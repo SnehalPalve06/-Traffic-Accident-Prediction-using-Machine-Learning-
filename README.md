@@ -23,7 +23,7 @@ The dataset contains the following features:
 Traffic-Accident-Prediction/
 │
 ├── README.md
-├── dataset.csv (or .xlsx)
+├── dataset_traffic_accident_prediction1.csv
 ├── traffic_prediction.ipynb
 
 ## ⚙️ Technologies Used
